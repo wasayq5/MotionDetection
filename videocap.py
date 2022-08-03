@@ -1,6 +1,7 @@
 import cv2, time, pandas
 from datetime import datetime
 
+print("Press the "q" key to quit.")
 
 video = cv2.VideoCapture(0)
 first_frame = None
