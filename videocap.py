@@ -1,6 +1,6 @@
 import cv2, time, pandas
 from datetime import datetime
-import matplotlib.pyplot as plt
+
 
 video = cv2.VideoCapture(0)
 first_frame = None
